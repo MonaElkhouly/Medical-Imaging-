@@ -75,6 +75,30 @@ img_arr = img_to_array(image) / 255.0
 img_bat = tf.expand_dims(img_arr, axis=0)
 predict = model.predict(img_bat)
 ```
+# GUI Integration
+
+A graphical user interface (GUI) has been implemented using PyQt5 to simplify the process of uploading an image and viewing its prediction. The GUI allows users to:
+
+- Upload an image file using a file dialog.
+- Display the uploaded image.
+- Perform real-time prediction using the trained model.
+- Show the predicted organ.
+
+## Features
+
+- **Image Upload**: Browse and upload images directly through the GUI.
+- **Prediction Display**: View the uploaded image alongside the prediction result and confidence score.
+- **User-Friendly Design**: A clean and intuitive interface designed for ease of use.
+
+## Screen Shots 
+![Heart](Images/Heart.jpeg) ![Brain](Images/Brain.jpeg) ![Liver](Images/Liver.jpeg)
+
+## Steps to Run the GUI
+
+1. **Install PyQt5**:
+   ```bash
+   pip install PyQt5
+
 
 ## Usage
 1. Clone the repository:
