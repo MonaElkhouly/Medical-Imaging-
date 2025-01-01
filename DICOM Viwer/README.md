@@ -68,7 +68,7 @@ The DICOM Viewer is a desktop application built using Python and PyQt5. It provi
 ![Single Slice View and Attributes Window](Images/1.png)
 
 #### Tile View
-![Tile View](Image/2.png)
+![Tile View](Images/2.png)
 
 ## Requirements
 - Python 3.6 or later
