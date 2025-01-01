@@ -62,17 +62,13 @@ The DICOM Viewer is a desktop application built using Python and PyQt5. It provi
 - Use the "Show Tiles" button to switch between tile and single-slice views.
 
 ---
-## Demonstration
-
-### Video Walkthrough
-[![M2D View](path-to-thumbnail-image)](link-to-video)
 
 ### Screenshots
 #### Single Slice View
-![Single Slice View and Attributes Window](path-to-image1)
+![Single Slice View and Attributes Window](Images/1.png)
 
 #### Tile View
-![Tile View](path-to-image2)
+![Tile View](Image/2.png)
 
 ## Requirements
 - Python 3.6 or later
