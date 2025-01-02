@@ -70,6 +70,10 @@ The DICOM Viewer is a desktop application built using Python and PyQt5. It provi
 #### Tile View
 ![Tile View](Images/2.png)
 
+## Video Demonstration of M2D
+
+[![M2D as Video](Images/2.png)](https://drive.google.com/drive/folders/1XSAlddeXlGTb6Ow2dfj0D5CrzqUA1xSQ?usp=drive_link)
+
 ## Requirements
 - Python 3.6 or later
 - Libraries:
