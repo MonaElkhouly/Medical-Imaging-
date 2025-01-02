@@ -91,7 +91,7 @@ A graphical user interface (GUI) has been implemented using PyQt5 to simplify th
 1. Clone the repository:
 ```bash
 git clone https://github.com/MonaElkhouly/ AI Organs Image Classifier.git
-cd organ-classification
+cd AI Organs Image Classifier
 ```
 2. Train the model:
 ```python
