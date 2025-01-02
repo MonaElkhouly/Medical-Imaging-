@@ -7,7 +7,7 @@ The **3D Urinary System Puzzle Game** is an interactive Unity-based game that al
 
 ### Video Demonstration
 
-[![Video](Images/download.png)](https://drive.google.com/drive/folders/1rS40tc5tUOqfQTimGtU8CFbb2-3oYHZp?usp=drive_link)
+[![Video](Images/download.png)](https://drive.google.com/drive/folders/1rS40tc5tUOqfQTimGtU8CFbb2-3oYHZp?usp=sharing)
 
 ## Features
 
