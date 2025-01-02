@@ -104,6 +104,7 @@ The DICOM Viewer is a desktop application built using Python and PyQt5. It provi
 ├── 📂 src
 │   ├── fullversion.py       # Entry point of the application
 ├── 📂 Icons          # Icons, styles, and other assets
+├── 📂 data_example    # The data shown in screenshots
 └── README.md         # This file
 ```
 
