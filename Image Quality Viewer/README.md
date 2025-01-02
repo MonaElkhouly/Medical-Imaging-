@@ -45,16 +45,16 @@ This application enables users to load medical or scientific images and apply va
   - SNR (Signal-to-Noise Ratio) calculation
   - CNR (Contrast-to-Noise Ratio) calculation
 
-## ScreenShots
-![Output1: Applying Noise,Output2: Applying Filter](Images/1.png) ![Output1: Contrast Enhancement,Output2: 3x Zoom](Images/2.png)  
-![Selecting ROIs for SNR Calculation](Images/3.png) ![Histogram of Input #pixels & Intensity](Images/4.png)
+### ScreenShots
+   #### Output1: Applying Noise,Output2: Applying Filter             
+![Output1: Applying Noise,Output2: Applying Filter](Images/1.png)
+   #### Output1: Contrast Enhancement,Output2: 3x Zoom
+![Output1: Contrast Enhancement,Output2: 3x Zoom](Images/2.png) 
+  #### Selecting ROIs for SNR Calculation  
+![Selecting ROIs for SNR Calculation](Images/3.png)
+  #### Histogram of Input #pixels & Intensity
+![Histogram of Input #pixels & Intensity](Images/4.png)
 
-## Installation
-
-### Prerequisites
-```bash
-python >= 3.6
-```
 
 ### Required Libraries
 ```bash
