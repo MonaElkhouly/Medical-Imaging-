@@ -1,4 +1,4 @@
-# Football Player Tracker Pro
+# Football Player Tracker
 
 ![GUI](Images/1.png)
 A sophisticated desktop application for tracking and analyzing football player movements in video footage using YOLO object detection and custom visualization tools.
