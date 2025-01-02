@@ -3,7 +3,7 @@
 This project implements a convolutional neural network (CNN) to classify grayscale medical images of main organs into predefined categories: heart, brain, and liver. The project is built using TensorFlow and Keras and is suitable for researchers and practitioners in medical image analysis.
 
 ## Overview
-This model takes grayscale medical images as input, processes them through a CNN, and outputs the predicted class (organ) with the associated confidence level. It is trained on a dataset of organ images and achieves high accuracy in organ classification tasks.
+This model takes grayscale medical images as input, processes them through a CNN, and outputs the predicted class (organ). It is trained on a dataset of organ images and achieves high accuracy in organ classification tasks.
 
 ## Dataset
 The dataset is organized into three directories:
@@ -83,12 +83,6 @@ A graphical user interface (GUI) has been implemented using PyQt5 to simplify th
 - Display the uploaded image.
 - Perform real-time prediction using the trained model.
 - Show the predicted organ.
-
-## Features
-
-- **Image Upload**: Browse and upload images directly through the GUI.
-- **Prediction Display**: View the uploaded image alongside the prediction result and confidence score.
-- **User-Friendly Design**: A clean and intuitive interface designed for ease of use.
 
 ## Screen Shots 
 ![Heart](Images/Heart.jpeg) ![Brain](Images/Brain.jpeg) ![Liver](Images/Liver.jpeg)
