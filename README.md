@@ -1,6 +1,6 @@
 # Project Directory Readme
 
-This folder contains seven projects, each with its own README file and content. Below is the structured list of links to each project and their respective README files.
+Welcome to the Project Directory! Dive into this collection of seven innovative projects, each meticulously crafted to showcase diverse capabilities and solutions related to Medical Imaging. Discover the details and dive into the documentation for each project listed below.
 
 ## Project Links
 
