@@ -10,14 +10,14 @@ This folder contains seven projects, each with its own README file and content. 
   - [DICOM Viewer Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/DICOM_Viewer/README.md)
 - [Football Match AI Tracker](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Football_AITracker)
   - [Football Match AI Tracker Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/Football_AITracker/README.md)
-- [Project 4](.\Project4)
-  - [Project 4 Readme](.\Project4\README.md)
-- [Project 5](.\Project5)
-  - [Project 5 Readme](.\Project5\README.md)
-- [Project 6](.\Project6)
-  - [Project 6 Readme](.\Project6\README.md)
-- [Project 7](.\Project7)
-  - [Project 7 Readme](.\Project7\README.md)
+- [Image Quality Viewer](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Image_Quality_Viewer)
+  - [Image Quality Viewer Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Image_Quality_Viewer#readme)
+- [MultiPlanar Reconstruction](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/MultiPlanar-Reconstruction)
+  - [MultiPlanar Reconstruction Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/MultiPlanar-Reconstruction/README.md)
+- [Quantum Molecular Imaging Device](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Quantum%20Molecular%20Imaging%20Device)
+  - [Quantum Molecular Imaging Device Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/Quantum%20Molecular%20Imaging%20Device/README.md)
+- [3D Urinary Puzzle Game](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/Urinary%20System%20Unity%20Puzzle)
+  - [3D Urinary Puzzle Game Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/Urinary%20System%20Unity%20Puzzle/README.md)
 
 ### Instructions
 - Each project folder contains its own implementation and a detailed README file.
