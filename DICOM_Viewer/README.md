@@ -7,6 +7,10 @@ The DICOM Viewer is a desktop application built using Python and PyQt5. It provi
 
 ## Features
 
+
+https://github.com/user-attachments/assets/463fadda-fd4b-416d-8920-19eea3bd18ae
+
+
 ### 1. File Support
 - **Supported Formats**: The application can open any DICOM file containing 2D, M2D, or 3D images.
 
