@@ -7,7 +7,7 @@ This folder contains seven projects, each with its own README file and content. 
 - [AI Organs Image Classifier](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/AI%20Organs%20Image%20Classifier)
   - [AI Organs Image Classifier Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/AI%20Organs%20Image%20Classifier/README.md)
 - [DICOM Viewer](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/tree/main/DICOM_Viewer)
-  - [DICOM Viewer Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging)
+  - [DICOM Viewer Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/DICOM_Viewer/README.md)
 - [Project 3](.\Project3)
   - [Project 3 Readme](.\Project3\README.md)
 - [Project 4](.\Project4)
