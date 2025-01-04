@@ -32,8 +32,7 @@ A sophisticated desktop application for tracking and analyzing football player m
  
 ## Video Demonstration
 
-[![Football Match Tracker](Images/2.png)](https://drive.google.com/drive/folders/17RhfldQtcWTBMr-Rvgc2aLALgZY_H_Im?usp=drive_link)
-
+https://github.com/user-attachments/assets/366068e0-343a-4eea-b11c-607ea9789da7
 
 ## Prerequisites
 
