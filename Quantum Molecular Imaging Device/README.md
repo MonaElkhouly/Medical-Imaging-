@@ -5,7 +5,7 @@ The project revolves around the idea: **Break a law, propose an imaging inventio
 
 ## Concept Video
 
-https://github.com/user-attachments/assets/f42f30d6-300f-4e56-b693-5573953e1407
+https://github.com/user-attachments/assets/0c37328e-64c6-4012-bca0-e6e9a607b512
 
 ## Law Broken
 **Decoherence Principle**: This principle states that a quantum system can exist in multiple states simultaneously, represented as |0⟩, |1⟩, or a combination thereof. Quantum decoherence disrupts this by collapsing these states into classical ones, limiting practical applications.
