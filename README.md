@@ -1,6 +1,6 @@
 # Project Directory Readme
 
-Welcome to the Project Directory! Dive into this collection of seven innovative projects, each meticulously crafted to showcase diverse capabilities and solutions related to Medical Imaging. Discover the details and dive into the documentation for each project listed below.
+Welcome to the Medical Imaging Directory! Dive into this collection of seven innovative projects, each meticulously crafted to showcase diverse capabilities and solutions related to Medical Imaging. Discover the details and dive into the documentation for each project listed below.
 
 ## Project Links
 
