@@ -5,7 +5,7 @@ This folder contains seven projects, each with its own README file and content. 
 ## Project Links
 
 - [Project 1](.\Project1)
-  - [Project 1 Readme](AI Organs Image Classifier/README.md)
+  - [Project 1 Readme](https://github.com/MonaElkhouly/Anatomy-Based-Imaging/blob/main/AI%20Organs%20Image%20Classifier/README.md)
 - [Project 2](.\Project2)
   - [Project 2 Readme](.\Project2\README.md)
 - [Project 3](.\Project3)
