@@ -1,6 +1,6 @@
 # Multi-Planar Reconstruction (MPR) Viewer
 
-| Respective Slices in each view                  | Zoom,Rotate,Contrast                  |
+| Respective Slices                   | Zoom,Rotate,Contrast                  |
 |-------------------------------------------------|---------------------------------------|
 | ![Respective Slices ](Images/1.png) | ![Zoom,Rotate,Contrast](Images/2.png) |
 
