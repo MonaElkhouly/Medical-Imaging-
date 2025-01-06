@@ -2,7 +2,7 @@
 
 | Respective Slices in each view                  | Zoom,Rotate,Contrast                  |
 |-------------------------------------------------|---------------------------------------|
-| ![Respective Slices ](Images/1.png)             | ![Zoom,Rotate,Contrast](Images/2.png) |
+| ![Respective Slices ](Images/1.png)             | ![Zoom,Rotate,Contrast](Images/1.png) |
 
 ## Overview
 This Multi-Planar Reconstruction (MPR) Viewer is a desktop application designed for visualizing and interacting with medical images in multiple planes of DICOM and MHD format. It provides intuitive navigation and manipulation features to aid in exploring 3D volumes and their 2D projections.
