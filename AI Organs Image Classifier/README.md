@@ -87,16 +87,6 @@ A graphical user interface (GUI) has been implemented using PyQt5 to simplify th
 ## Screen Shots 
 ![Heart](Images/Heart.jpeg) ![Brain](Images/Brain.jpeg) ![Liver](Images/Liver.jpeg)
 
-![Heart](Images/Heart.jpeg)
-**Heart**
-
-![Brain](Images/Brain.jpeg)
-**Brain**
-
-![Liver](Images/Liver.jpeg)
-**Liver**
-
-
 ## Usage
 1. Clone the repository:
 ```bash
