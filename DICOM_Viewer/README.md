@@ -72,7 +72,7 @@ The DICOM Viewer is a desktop application built using Python and PyQt5. It provi
 
 ## Video Demonstration of M2D
 
-[![M2D as Video](Images/3.png)](https://drive.google.com/drive/folders/1XSAlddeXlGTb6Ow2dfj0D5CrzqUA1xSQ?usp=sharing)
+https://github.com/user-attachments/assets/5536912e-8efd-45fe-a155-6757185cdf08
 
 ## Requirements
 - Python 3.6 or later
